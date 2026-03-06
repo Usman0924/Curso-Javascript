@@ -1,0 +1,6 @@
+//Diferencia entre funciones y terminos
+const numero1 = 20;
+const numero2 = '20';
+
+console.log(parseInt(numero2)); //Esto es una funcion
+console.log(numero1.toString()); //Esto es un metodo, cuando esta despues de una variable
